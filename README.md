@@ -1,0 +1,17 @@
+# XSSHunt
+
+XSSHunt is a domain vulnerability scanner script that utilizes various tools to check for XSS vulnerabilities in multiple domains. 
+
+## Features
+
+- Scan multiple domains for vulnerabilities.
+- Checks against various payloads.
+- Stylish output with colorful text.
+
+## Requirements
+
+- Install required tools such as `waybackurls`, `gf`, `uro`, and `httpx`.
+
+## Usage
+
+1. Clone the repository:
