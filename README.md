@@ -15,3 +15,6 @@ XSSHunt is a domain vulnerability scanner script that utilizes various tools to 
 ## Usage
 
 1. Clone the repository:
+```bash
+git clone https://github.com/0xYumeko/XSSHunt.git
+```
