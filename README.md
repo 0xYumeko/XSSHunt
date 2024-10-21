@@ -1,5 +1,8 @@
 # XSSHunt
 
+![Screenshot 2024-10-21 163520](https://github.com/user-attachments/assets/93fa4a7f-2007-4712-b1d4-edc7d9374481)
+
+
 XSSHunt is a domain vulnerability scanner script that utilizes various tools to check for XSS vulnerabilities in multiple domains. 
 
 ## Features
@@ -30,4 +33,6 @@ chmod +x  XSSHunt.sh
 ```bash
 bash XSSHunt.sh
 ```
+## exempel : 
+![Screenshot 2024-10-21 163332](https://github.com/user-attachments/assets/e1ffb581-18f9-49c8-bafb-56f3bc70f984)
 
